@@ -14,3 +14,9 @@ This is the basic folder structure without any dependency manager, config files,
     ├── src                     # Source files
     ├── tests                   # Automated tests (alternatively `spec` or `tests`)
     └── README.md               # A instructions file.
+
+Contributors:
+
+	Rahul Thorat
+	Bharat Singh Rajpurohit
+	Anisha Birje
