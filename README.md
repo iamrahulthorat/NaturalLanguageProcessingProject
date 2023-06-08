@@ -1,7 +1,14 @@
-# Data Project Part-1
-We will learn about how to structure the data projects, for productionizing your Data Science &amp; ML work.
-This is the basic folder structure without any dependency manager, config files, dvc, pdoc etc. We will slowly introduce each as the need arises.
+# Natural Language Processing Project : Authorship Verification
+##PREDICTING AUTHOR FEATURES FROM HIS/HER BLOG POSTS
+Here we are going to solve a multi-label classification problem.
 
+**Tasks:**
++ Downloading the dataset from Kaggle and loading the corpus into dataframe.
++ Pre-processing the textual data.
++ Building a model that will predict the features of the author.
+
+_The dataset we are going to work on can be found here:_
+https://www.kaggle.com/datasets/rtatman/blog-authorship-corpus
 
     .
     ├── data                    # data files location
