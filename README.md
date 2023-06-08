@@ -1,5 +1,5 @@
 # Natural Language Processing Project : Authorship Verification
-##PREDICTING AUTHOR FEATURES FROM HIS/HER BLOG POSTS
+## PREDICTING AUTHOR FEATURES FROM HIS/HER BLOG POSTS
 Here we are going to solve a multi-label classification problem.
 
 **Tasks:**
